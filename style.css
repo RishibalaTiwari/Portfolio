@@ -32,8 +32,8 @@ nav ul li{
 }
 .secsec{
     background-color: red;
-    width: 30%;
-    justify-content: space-around;
-    display: flex;
-    margin: 200px;
+    width: 50%;
+    /* justify-content: space-around; */
+    /* display: flex; */
+    /* margin: 200px; */
   }
