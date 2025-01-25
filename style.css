@@ -1,16 +1,17 @@
-.navbar{
+.right{
     margin-top: 10px;
     align-items: center;
-    text-decoration: none;
+   
     display: flex;
     background-color: blueviolet;
     justify-items: center;
     padding:30px;
-    
+
 
 }
 a:hover{
 color: aqua;
 font-size: larger;
 background-color: red;
+text-decoration: none;
 }
