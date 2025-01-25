@@ -5,6 +5,8 @@
     display: flex;
     background-color: blueviolet;
     justify-items: center;
+    padding:30px;
+    
 
 }
 a:hover{
