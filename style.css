@@ -23,3 +23,17 @@ nav ul li{
 .left{
     font-size: 1.5rem;
 }
+.firstsec{
+  background-color: red;
+  width: 30%;
+  justify-content: space-around;
+  display: flex;
+  margin: 200px;
+}
+.secsec{
+    background-color: red;
+    width: 30%;
+    justify-content: space-around;
+    display: flex;
+    margin: 200px;
+  }
