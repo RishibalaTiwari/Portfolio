@@ -23,6 +23,9 @@ nav ul li{
 .left{
     font-size: 1.5rem;
 }
+section{
+    display: flex;
+}
 .firstsec{
   background-color: red;
   width: 30%;
